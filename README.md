@@ -38,8 +38,6 @@ Fixed-point math for performance on constrained hardware
 
 Modular architecture with clean separation of logic, input, graphics, and sound
 
-No OS, no libraries — just raw embedded programming
-
 🎯 Project Purpose
 Byte Racers isn’t just a game — it's a hands-on showcase of embedded systems engineering. It demonstrates low-level hardware interaction, real-time event handling, and graphical performance optimization on a memory- and speed-constrained platform. Ideal for students, educators, or hobbyists exploring microcontroller capabilities in a fun and visual way.
 
